@@ -1,16 +1,1 @@
 
-table{
-	border:1px solid ;
-	width:100%
-}
-th,tr,td{
-	border:1px solid;
-}
-#dark{
-	background-color:black;
-	color:white;
-}
-#link{
-	color:blue;
-	text-decoration:underline
-}
